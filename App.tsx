@@ -3,7 +3,6 @@ import Experience from "./components/Experience";
 import Home from "./components/Home";
 import Navbar from "./components/navbar";
 import Projects from "./components/Projects";
-import Footer from "./components/Footer";
 
 export default function App() {
   return (
@@ -17,8 +16,6 @@ export default function App() {
       <Experience />
       <Projects/>
      </div> 
-      
-      <Footer/>
   </div>
   )
 }
