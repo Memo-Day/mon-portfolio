@@ -29,7 +29,7 @@ This site is designed to showcase my skills in software quality, test automation
 
 screenshot (![portfolio](https://github.com/user-attachments/assets/77bd4468-c50e-460b-b281-0ea059af06e9)
 )
-🔗 Live Link
+🔗 https://mon-portfolio-bay.vercel.app
 
 🖥️ memo-day.github.io/mon-portfolio 
 👩‍💻 About Me
