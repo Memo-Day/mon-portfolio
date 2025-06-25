@@ -71,7 +71,7 @@ const experiences = [
     role: "Founder",
     period: "2024 - 2025",
     description: [
-      "Agency specializing in QA testing.",
+      "Agency specializing in QA testing and dev.",
       "Remote collaboration with French and international companies.",
     ],
   },

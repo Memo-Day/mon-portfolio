@@ -18,9 +18,9 @@ const projects = [
         id: 1,
         title: 'Frontend Web Application',
         description: 'Creation of a modern and responsive portfolio, demonstrating my skills in UI/UX design, my interest in modern front-end development, and my mastery of web deployment. The project emphasizes performance, accessibility, and a seamless user experience.',
-        technologies: ['React', 'Node.js', 'Netlify', 'Tailwind CSS', 'Visual Studio Code', 'bash', 'DaisyUI', 'Vite', 'GitHub'],
+        technologies: ['React', 'Node.js', 'Netlify', 'Tailwind CSS', 'Visual Studio Code', 'bash', 'DaisyUI', 'Vite', 'GitHub', 'TypeScript','Vercel'],
         demoLink: '# à venir',
-        repoLink: '#à venir',
+        repoLink: '#https://github.com/Memo-Day/mon-portfolio',
         image: portfolio,
     },
     {
@@ -56,10 +56,10 @@ const projects = [
     {
         id: 5,
         title: 'Founder',
-        description: `Founded of  IT Digital Fox, a freelance tech company based in Stockholm, specialized in digital strategy, dev and QA testing.
+        description: `Founder of  IT Digital Fox, a freelance tech company based in Stockholm, specialized in digital strategy, dev and QA testing.
         Delivered web and mobile solutions for European clients, including UI/UX design, content integration, and functional testing.
         Collaborated remotely with international teams in Agile environments, acting as a bridge between business, developers, and testers.`,
-        technologies: ['Arch Linux', 'Windows', 'Squash TM', 'Jira', 'xray'],
+        technologies: ['Arch Linux', 'Windows', 'Squash TM', 'Jira', 'xray','VSC', 'Github', 'Replit', 'JavaScript', 'Vercel'],
         demoLink: 'https://www.linkedin.com/in/emmanuel-bellasino/',
         image: itfox,
     },

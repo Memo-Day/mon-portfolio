@@ -7,21 +7,21 @@ const aboutSections = [
     id: 1,
     title: "Software Tester",
     description:
-      "I'm Software Tester with +4 years of expérience in testing web applications. I have a strong background in manual and automated testing, with expertise in tools like Azure Devops, SoapUi, Gherkin and Postman. My goal is to ensure the highest quality of software products through rigorous testing and continuous improvement.",
+      "I'm a Software Tester with over 4 years of experience in testing web applications. I have a solid background in both manual and automated testing. My TP are designed to cover all specified requirements, ensuring full compliance with the project specifications.",
     icon: <BugPlay className="text-accent scale-150" />,
   },
   {
     id: 2,
     title: "Fullstack Web Development ",
     description:
-      "I have a solid foundation in fullstack web development, with hands-on experience creating interactive applications such as a weather app that fetches real-time data from external APIs. I enjoy building both frontend and backend features using technologies like React, JavaScript, Node.js, Python, Visual Studio Code and Github. From personal portfolios to custom APIs, I love crafting intuitive and responsive user experiences while writing clean, maintainable code.",
+      "I have a solid foundation in full-stack web development, with hands-on experience building websites and interactive applications. My goal is to collaborate effectively with the entire team and contribute to the creation of reliable and intuitive digital solutions.",
     icon: <CalendarSync className="text-accent scale-150" />,
   },
   {
     id: 3,
     title: "Continuous Learning",
     description:
-      "During my experience (freelance and salary), I took the opportunity to explore various aspects of software testing and web development through personal projects and online training. This hands-on experience allowed me to deepen my knowledge of tools and frameworks while staying up to date with the latest trends in the tech world. I’m passionate about continuous learning and always looking for new challenges to grow my expertise and deliver high-quality solutions.",
+      "Curious and passionate about technology, I’m a fast learner who thrives on new challenges. I’m committed to continuous improvement and driven to deliver high-quality, future-ready solutions.",
     icon: <BookOpenCheck className="text-accent scale-150" />,
   },
 ];
