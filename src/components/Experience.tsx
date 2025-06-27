@@ -69,7 +69,7 @@ const experiences = [
     image: itdigitalfox,
     company: "IT Digital Fox",
     role: "Founder",
-    period: "2024 - 2025",
+    period: "2023 - 2025",
     description: [
       "Agency specializing in QA testing and dev.",
       "Remote collaboration with French and international companies.",

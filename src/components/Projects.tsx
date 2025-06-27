@@ -20,7 +20,7 @@ const projects = [
         description: 'Creation of a modern and responsive portfolio, demonstrating my skills in UI/UX design, my interest in modern front-end development, and my mastery of web deployment. The project emphasizes performance, accessibility, and a seamless user experience.',
         technologies: ['React', 'Node.js', 'Netlify', 'Tailwind CSS', 'Visual Studio Code', 'bash', 'DaisyUI', 'Vite', 'GitHub', 'TypeScript','Vercel'],
         demoLink: '# à venir',
-        repoLink: '#https://github.com/Memo-Day/mon-portfolio',
+        repoLink: 'https://github.com/Memo-Day/mon-portfolio',
         image: portfolio,
     },
     {
@@ -31,26 +31,26 @@ const projects = [
         Managed bug tracking and test coverage using truth tables,
         Actively contributed to REX and agile ceremonies.`,
         technologies: ['Jira', 'Xray', 'Azure Devops', 'SoapUi', 'Postman', 'Excel', 'JSon', 'WSDL', 'Gerkhin','Confluence'],
-        demoLink: '#https://wholesalefrance.orange.fr/en/',
+        demoLink: 'https://wholesalefrance.orange.fr/en/',
         image: pdtowf,
     },
     {
         id: 3,
         title: 'Software Tester / Data Analyst',
-        description: `Participated in functional, performance, localization, validation, and security test campaigns on websites (Windows / Arch Linux) and mobile apps in production environments.
+        description: `Participated in functional, performance, localization, validation, network and security test campaigns on websites (Windows / Arch Linux) and mobile apps.
         Conducted use case evaluations, compliance checks, quality reviews, bug reproduction, and detailed reporting as part of an international collaboration in a crowdtesting context.`,
         technologies: ['Charles Proxy', 'Console', 'Handbrake', 'Pinta', 'Mobile Android', 'API','Utest Platform'],
-        demoLink: '#https://www.utest.com/',       
+        demoLink: 'https://www.utest.com/',       
         image: utest1,
     },
     {
         id: 4,
         title: 'Software tester / Project Coordinator',
-        description: `Participation in the redesign of the UI in a production environment.
+        description: `Participation in the redesign of the Website in a hidden prod env.
         Acted as a liaison between clients, users, dev, and DevOps.
-        Contributed to the website development according to business needs and the roadmap: backlog analysis, writing user stories, performing functional tests, UI and accessibility testing, bug tracking, and test reporting.`,
+        According to business needs and the roadmap: backlog analysis, writing user stories, performing functional tests, UI and accessibility testing, bug tracking, and test reporting.`,
         technologies: ['Wordpress', 'Wordfence', 'Varnish','Squash TM', 'Confluence'],
-        demoLink: '#https://www.mamanslouves.org/',
+        demoLink: 'https://www.mamanslouves.org/',
         image: mamanslouves1,
     },
     {
@@ -71,16 +71,16 @@ const projects = [
         Configured Docker volumes and services for automated container management and data retention across reboots.
         Accessible via http://localhost:8090/squash/.`,
         technologies: ['Doker', 'Bash', 'Squash TM'],
-        demoLink: '#https://www.linkedin.com/pulse/archlinux-comment-installer-squash-tm-open-source-avec-parmentier-xq1ue/',
+        demoLink: 'https://www.linkedin.com/pulse/archlinux-comment-installer-squash-tm-open-source-avec-parmentier-xq1ue/',
         image: article1,
     },
     {
         id: 7,
         title: 'Git & GitHub Workflow Practice ',
-        description: 'Hands-on experience with Git: repository creation and management, collaboration through pull requests, workflow structuring with Git Flow, and version control.',
+        description: 'Hands-on experience with Git: repository creation and management, collaboration through pull requests, workflow structuring with Git Flow, and version control, CI/CD.',
         technologies: ['Git', 'Github', '.gitignore','Console', ],
-        demoLink: '#https://github.com/Memo-Day?tab=repositories',
-        repoLink: '#https://github.com/Memo-Day',
+        demoLink: 'https://github.com/Memo-Day?tab=repositories',
+        repoLink: 'https://github.com/Memo-Day',
         image: githubmemo,
     },
         {
@@ -89,18 +89,17 @@ const projects = [
             description: `Completed a certified course on the fundamentals of JavaScript: variables, conditions, functions, DOM manipulation, and event handling.
     Built interactive mini-projects to apply learned concepts (digital clock, portfolio, weather app)`,
             technologies: ['html', 'css', 'TypeScript', 'JavaScript', 'React', 'Node.js', 'Arch Linus'],
-            demoLink: '#https://www.shecodes.io/',
-            repoLink: '#',
+            demoLink: 'https://www.shecodes.io/',
             image: javascript,
         },
     {
         id: 9,
-        title: 'Python Weather App – Terminal Forecast Tool',
+        title: 'Introduction Python Development – SheCodes',
         description: `Developed as part of a certified Python training program, this terminal-based weather app fetches real-time weather data from a public API and displays it using the Rich library for enhanced readability.
         The project highlights API interaction, JSON parsing, and clean, modular Python coding practices.`,
         technologies: ['Replit', 'Python', 'JSon', 'Rich', 'Requests', 'API', 'CSV', 'Matplotlib', 'Jupyter'],
-        demoLink: '#https://www.shecodes.io/',
-        repoLink: '#https://github.com/Memo-Day/weather-app-python',
+        demoLink: 'https://www.shecodes.io/',
+        repoLink: 'https://github.com/Memo-Day/weather-app-python',
         image: python,
     },
 ];
