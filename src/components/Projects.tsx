@@ -11,6 +11,7 @@ import githubmemo from '../assets/projects/githubmemo.png';
 import javascript from '../assets/projects/JS.png';
 import python from '../assets/projects/python.png';
 import { Github, Video } from "lucide-react";
+import advancedpython from '../assets/projects/advancedpython.png';
 
 
 const projects = [
@@ -101,6 +102,15 @@ const projects = [
         demoLink: 'https://www.shecodes.io/',
         repoLink: 'https://github.com/Memo-Day/weather-app-python',
         image: python,
+    },
+    {
+        id: 10,
+        title: 'Completed the Advanced Python Development – SheCodes',
+        description: `I worked on advanced data structures, code organization, and data visualization from CSV/JSON files.
+        This experience strengthened my skills in data manipulation and visualization, highly valuable for my testing and analysis projects.`,
+        technologies: ['Replit', 'Python', 'JSon', 'CSV', 'Matplotlib', 'Pandas'],
+        demoLink: 'https://www.shecodes.io/',
+        image: advancedpython,
     },
 ];
 const Projects = () => {

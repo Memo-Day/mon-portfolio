@@ -9,6 +9,10 @@ import imgGITHUB from "../assets/techno/github.png";
 import imgJS from "../assets/techno/js.png";
 import imgPYTHON from "../assets/techno/python.png";
 import imgREACT from "../assets/techno/react.png";
+import imgMYSQL from "../assets/techno/mysql.png";
+import imgSQL from "../assets/techno/sql.png";
+import imgPLAYWRIGHT from "../assets/techno/playwright.png";
+import imgSQUASHTM from "../assets/techno/squashtm.png";
 
 import owf from "../assets/companies/owf.png";
 import mamanslouves from "../assets/companies/mamanslouves.png";
@@ -25,6 +29,10 @@ const skills = [
   { id: 7, name: "JavaScript", image: imgJS },
   { id: 8, name: "Python", image: imgPYTHON },
   { id: 9, name: "React", image: imgREACT },
+  { id: 10, name: "MySQL", image: imgMYSQL },
+  { id: 11, name: "SQL", image: imgSQL },
+  { id: 12, name: "Playwright", image: imgPLAYWRIGHT },
+  { id: 13, name: "SquashTM", image: imgSQUASHTM },
 ];
 
 const experiences = [
