@@ -20,7 +20,7 @@ const Home = () => {
         </p>
         <div className="flex items-center space-x-2 mb-4">
           <Phone className="text-accent" />
-          <span>+33 6 74 42 27 46</span>
+          <span>+46 7 20 33 01 73</span>
         </div>
         <a href="mailto:parmentier59@hotmail.com" className="btn btn-accent gap-2 bg-orange-600 text-black md:w-fit flex items-center w-max">
           <Mail className="w-5 h-5" />    
